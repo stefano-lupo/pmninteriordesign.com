@@ -1,0 +1,4 @@
+[21-Jul-2016 16:15:55 Europe/Paris] PHP Warning:  mail() expects at least 3 parameters, 2 given in /home2/phil/public_html/send-mail.php on line 40
+[21-Jul-2016 16:15:55 Europe/Paris] PHP Warning:  mail() expects at least 3 parameters, 2 given in /home2/phil/public_html/send-mail.php on line 41
+[22-Jul-2016 16:28:59 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home2/phil/public_html/test.php on line 47
+[22-Jul-2016 16:30:48 Europe/Paris] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home2/phil/public_html/test.php on line 47

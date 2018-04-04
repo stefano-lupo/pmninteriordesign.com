@@ -1,0 +1,2 @@
+[07-Jul-2016 18:33:39 Europe/Paris] PHP Warning:  mail() expects at least 3 parameters, 2 given in /home2/phil/public_html/send-mail.php on line 40
+[07-Jul-2016 18:33:39 Europe/Paris] PHP Warning:  mail() expects at least 3 parameters, 2 given in /home2/phil/public_html/send-mail.php on line 41
